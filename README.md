@@ -1,3 +1,5 @@
+Edit: Spotify changed its [terms](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api) on the API so this code won't run.
+
 # Spotify Data Analysis
 This repository contains the Jupyter Notebook used to analyse my Spotify streaming history.
 
